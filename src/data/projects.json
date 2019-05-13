@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Cossin Lette 2",
+        "subtitle": "Relic of the past",
+        "description": "A truly ancient little project I made around christmas 2009 with Myriam Noël-Martel. This was back before I had learnt to program and is made using events in RPG Maker XP. It's sort of a horrendous top down shooter. Sadly I don't even have the source project for it anymore. The first Cossin Lette has been lost to the ages, and there are rumors a third is in the works.",
+        "date": "2010-01-23",
+        "links": [
+            {
+                "name": "Windows installer",
+                "icon": "gamepad",
+                "url": "ftp://lan.dagothig.com/oldies/Cossin%20Lette%202.2.exe"
+            }
+        ],
+        "thumb": "../images/cossin-lette-thumb.png",
+        "images": [
+            "../images/cossin-lette-2-1.png",
+            "../images/cossin-lette-2-2.jpg"
+        ]
+    },
+    {
+        "name": "Tiny Religion",
+        "subtitle": "Ludum Dare 23",
+        "description": "My first ever Ludum Dare and proper game! The aim was to make a sort of reverse god game, where the goal is to make your god happy. In practice it's essentially a cookie-clicker type affair. There are two versions: the original LD release with all assets made by me, and a post-LD version with much better graphics that were made by Myriam Noël-Martel. This was programmed in C# using [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA) and might be the most horrendous codebase I've ever made.",
+        "date": "2012-04-23",
+        "links": [
+            {
+                "name": "Final w/ installer",
+                "icon": "gamepad",
+                "url": "ftp://lan.dagothig.com/oldies/TinyReligionInstaller_FINAL.zip"
+            },
+            {
+                "name": "Final w/o installer",
+                "icon": "gamepad",
+                "url": "ftp://lan.dagothig.com/oldies/TinyReligion_FINAL.zip"
+            },
+            {
+                "name": "Compo w/o installer",
+                "icon": "gamepad",
+                "url": "ftp://lan.dagothig.com/oldies/TinyWorldBuild4_3.zip"
+            },
+            {
+                "name": "Ludum Dare entry",
+                "icon": "external-link-alt",
+                "url": "http://ludumdare.com/compo/ludum-dare-23/?action=preview&uid=11227"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/Dagothig/LudumDare23"
+            }
+        ],
+        "images": [
+            "../images/tiny-religion-old-new-1.png",
+            "../images/tiny-religion-old-new-2.png",
+            "../images/tiny-religion-old-old-1.png",
+            "../images/tiny-religion-old-old-2.png"
+        ]
+    },
+    {
+        "name": "Dungeoneerer",
+        "subtitle": "Javascript experimentation",
+        "description": "Back when I was learning Javascript and making all of what I could understand from scratch, I made this little rpg/platformer. This was never finished, but the first dungeon is essentially complete.",
+        "date": "2012-06-01",
+        "links": [
+            {
+                "name": "Game",
+                "icon": "gamepad",
+                "url": "http://old.dagothig.com/Jeux/Dungeon/Game.html"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/Dagothig/SitePersonnel/tree/master/Site/Jeux/Dungeon"
+            }
+        ],
+        "images": [
+            "../images/dungeoneerer-1.png",
+            "../images/dungeoneerer-2.png"
+        ]
+    },
+    {
+        "name": "The Fisherman",
+        "subtitle": "Ludum Dare 24",
+        "description": "A little jam about going from small fishing boat to mighty galleon. Made using Javascript and nothing else and featuring quite poor water effects and gameplay.",
+        "date": "2012-08-27",
+        "links": [
+            {
+                "name": "Game",
+                "icon": "gamepad",
+                "url": "http://old.dagothig.com/Jeux/Ship/Game.html"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/Dagothig/SitePersonnel/tree/master/Site/Jeux/Ship"
+            }
+        ],
+        "images": [
+            "../images/the-fisherman-1.png",
+            "../images/the-fisherman-2.png"
+        ]
+    },
+    {
+        "name": "Factorism",
+        "subtitle": "Ludum Dare 26",
+        "description": "The first project I made in a team with Frédéric-Antoine Gingras. Essentially, the game is about maintaining a factory as you are required to transform products by passing them through multiple machines and pipes. This was made using Java and [Slick2D](http://slick.ninjacave.com/).",
+        "date": "2013-04-29",
+        "links": [
+            {
+                "name": "Ludum Dare entry",
+                "icon": "external-link-alt",
+                "url": "http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=11227"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/CoffeeBland/ld26-jam"
+            }
+        ],
+        "thumb": "../images/factorism-thumb.png",
+        "images": [
+            "../images/factorism-1.png",
+            "../images/factorism-2.png"
+        ]
+    },
+    {
+        "name": "10 Seconds to Insanity",
+        "subtitle": "Ludum Dare 27",
+        "description": "Prepare.... for a descent into MADNESS\n\nYou have 10 seconds... or so it would seem, to find enlightment in the dungeon...\n\nBut something feels weird... you don't feel quite right in the head. Your light dims out, your heart beats faster...\n\nthis is 10 Seconds to Insanity.\n\nThe game was by far the most ambitious we had worked on during a Ludum Dare; featuring an isometric view, randomly generated dungeons, a whopping 64 frames of animation for the main character, creepy music and sound! Coding-wise this was Java with [Slick2D](http://slick.ninjacave.com/). Coding was done by me and Frédéric-Antoine Gingras. Graphics were done by Myriam Noël-Martel. Music is by Édouard Blain-Noël.",
+        "date": "2013-08-26",
+        "links": [
+            {
+                "name": "Game",
+                "icon": "gamepad",
+                "url": "ftp://lan.dagothig.com/oldies/10SecondsToInsanity.zip"
+            },
+            {
+                "name": "Ludum Dare entry",
+                "icon": "external-link-alt",
+                "url": "http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=11227"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/CoffeeBland/ld27-jam"
+            }
+        ],
+        "thumb": "../images/10-seconds-to-insanity-thumb.png",
+        "images": [
+            "../images/10-seconds-to-insanity-1.png",
+            "../images/10-seconds-to-insanity-2.png",
+            "../images/10-seconds-to-insanity-3.png",
+            "../images/10-seconds-to-insanity-4.png"
+        ]
+    },
+    {
+        "name": "Bang! server",
+        "subtitle": "node.js monstrosity",
+        "description": "Back when I started university, there was one game that was played every day at the student association: The card game Bang! Because I was curious about writing a card game engine and because I thought it'd be \"trivial\" (spoilers: it was not), I made one from scratch in node using [socket.io](https://socket.io/) and [express.js](https://expressjs.com/). The server should fully support the vanilla Bang! rules and cards. The client renders using only html and css and there were plans to draw all the card art instead of using the original but that proved to be quite the undertaking.",
+        "date": "2017-03-04",
+        "links": [
+            {
+                "name": "Game",
+                "icon": "gamepad",
+                "url": "https://bang.dagothig.com/"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/Dagothig/node-bang"
+            }
+        ],
+        "thumb": "../images/node-bang-thumb.png",
+        "images": [
+            "../images/node-bang-1.png"
+        ]
+    },
+    {
+        "name": "Crustal",
+        "subtitle": "Ludum Dare 38",
+        "description": "*The last bastion of hope for this small world.*\n\nIt must be protected at all costs! Alas, hordes of monsters creep in the shadows…\n\nFollow franctically behind the Crustal as it wobbles along, and try to survive as long as possible. Move with arrow keys and shoot with wasd.\n\nThe game’s written in Lua, running on [Löve](https://love2d.org/). It was made in a whirlwind of a weekend where I showed up at Frédéric-Antoine Gingras's place in Toronto on a friday and didn't see the sun until I had to go on sunday. Programming was made by both of us and the assets were mostly done by me.",
+        "date": "2017-04-26",
+        "links": [
+            {
+                "name": "Latest release",
+                "icon": "gamepad",
+                "url": "https://github.com/CoffeeBland/ld38-small-world/releases/tag/v0.3-beta"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/CoffeeBland/ld38-small-world"
+            },
+            {
+                "name": "Ludum Dare entry",
+                "icon": "external-link-alt",
+                "url": "https://ldjam.com/events/ludum-dare/38/crustal"
+            }
+        ],
+        "thumb": "../images/crustal-thumb.png",
+        "images": [
+            "../images/crustal-1.png",
+            "../images/crustal-2.png"
+        ]
+    },
+    {
+        "name": "Tiny Religion",
+        "subtitle": "Javascript remake",
+        "description": "A playable remake of my first Ludum Dare entry. A simple game about making your god happy by doing stuff which mostly consists of making babies and building bridges. Includes a usable interface, new features and some balance adjustments. This was made in Javascript using [PixiJS](https://www.pixijs.com/) and the app is essentially a bundled version of that.",
+        "date": "2017-06-01",
+        "links": [
+            {
+                "name": "Game",
+                "icon": "gamepad",
+                "url": "http://tiny-religion.dagothig.com/"
+            },
+            {
+                "name": "Android app",
+                "icon": "mobile",
+                "url": "https://play.google.com/store/apps/details?id=com.dagothig.tinyreligion"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/Dagothig/tiny_religion.js/"
+            }
+        ],
+        "thumb": "../images/tiny-religion-thumb.png",
+        "images": [
+            "../images/tiny-religion-1.png",
+            "../images/tiny-religion-2.png",
+            "../images/tiny-religion-3.png"
+        ]
+    }
+]
