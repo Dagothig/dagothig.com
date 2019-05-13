@@ -72,9 +72,6 @@ export default () => (
                             ))}
                     </div>
                     <div className="container my-4 text-center">
-                        Made with{" "}
-                        <a href="https://www.gatsbyjs.org/">GatsbyJS</a>
-                        <span className="mx-2">|</span>
                         <a href="https://github.com/Dagothig/dagothig.com">
                             Source
                         </a>
@@ -83,7 +80,9 @@ export default () => (
                         <a href="https://www.instagram.com/catiniata/">
                             Myriam Noël-Martel
                         </a>{" "}
-                        pour l' E S P A C E
+                        pour l'&nbsp;E&nbsp;S&nbsp;P&nbsp;A&nbsp;C&nbsp;E
+                        <span className="mx-2">|</span>
+                        Looking for my <a href="http://old.dagothig.com">old website</a>?
                     </div>
                 </>
             )}
