@@ -21,6 +21,8 @@ const Layout = ({ children }) => (
                 site {
                     siteMetadata {
                         title
+                        description
+                        url
                     }
                 }
             }
@@ -29,8 +31,9 @@ const Layout = ({ children }) => (
             <>
                 <Helmet>
                     <title>{data.site.siteMetadata.title}</title>
-                    <link rel="canonical" href="https://dagothig.com" />
+                    <link rel="canonical" href={data.site.siteMetadata.url} />
                     <link rel="icon" href="favicon.ico" type="image/x-icon" />
+                    <meta name="description" content={data.site.siteMetadata.description} />
                 </Helmet>
                 <div className="body-bg"></div>
                 {children}

@@ -2,6 +2,7 @@ module.exports = {
     siteMetadata: {
         title: "Guillaume's gallery",
         description: "Simple gallery of various little projects I've done or partook in.",
+        url: "https://dagothig.com",
         author: 'Guillaume Noël-Martel'
     },
     plugins: [
