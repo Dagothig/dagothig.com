@@ -32,6 +32,7 @@ const Layout = ({ children }) => (
                     <link rel="canonical" href="https://dagothig.com" />
                     <link rel="icon" href="favicon.ico" type="image/x-icon" />
                 </Helmet>
+                <div className="body-bg"></div>
                 {children}
             </>
         )}
