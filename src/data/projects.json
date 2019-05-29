@@ -2,7 +2,7 @@
     {
         "name": "Cossin Lette 2",
         "subtitle": "Relic of the past",
-        "description": "A truly ancient little project I made around christmas 2009 with Myriam Noël-Martel. This was back before I had learnt to program and is made using events in RPG Maker XP. It's sort of a horrendous top down shooter. Sadly I don't even have the source project for it anymore. The first Cossin Lette has been lost to the ages, and there are rumors a third is in the works.",
+        "description": "A truly ancient little project I made around christmas 2009 with Myriam Noël-Martel. This was back before I had learnt to program and is made using events in RPG Maker XP. It's sort of a horrendous top down shooter. Sadly I don't even have the source project for it anymore. You might notice the lack of a first Cossin Lette; alas it has been lost to the ages, although there are rumors a third one is in the works",
         "date": "2010-01-23",
         "links": [
             {
@@ -81,7 +81,7 @@
     {
         "name": "The Fisherman",
         "subtitle": "Ludum Dare 24",
-        "description": "A little jam about going from small fishing boat to mighty galleon. Made using Javascript and nothing else and featuring quite poor water effects and gameplay.",
+        "description": "A little jam about going from small fishing boat to mighty galleon. Or that was the intent at least. Made using Javascript.",
         "date": "2012-08-27",
         "links": [
             {
@@ -126,7 +126,7 @@
     {
         "name": "10 Seconds to Insanity",
         "subtitle": "Ludum Dare 27",
-        "description": "Prepare.... for a descent into MADNESS\n\nYou have 10 seconds... or so it would seem, to find enlightment in the dungeon...\n\nBut something feels weird... you don't feel quite right in the head. Your light dims out, your heart beats faster...\n\nthis is 10 Seconds to Insanity.\n\nThe game was by far the most ambitious we had worked on during a Ludum Dare; featuring an isometric view, randomly generated dungeons, a whopping 64 frames of animation for the main character, creepy music and sound! Coding-wise this was Java with [Slick2D](http://slick.ninjacave.com/). Coding was done by me and Frédéric-Antoine Gingras. Graphics were done by Myriam Noël-Martel. Music is by Édouard Blain-Noël.",
+        "description": "Prepare.... for a descent into MADNESS\n\nYou have 10 seconds... or so it would seem, to find enlightment in the dungeon...\n\nBut something feels weird... you don't feel quite right in the head. Your light dims out, your heart beats faster...\n\nthis is 10 Seconds to Insanity.\n\nThe game was by far the most ambitious we had worked on up to that point during a Ludum Dare; it features an isometric view, randomly generated dungeons, a whopping 64 frames of animation for the main character, creepy music and sound! Coding-wise this was Java with [Slick2D](http://slick.ninjacave.com/). Coding was done by me and Frédéric-Antoine Gingras. Graphics were done by Myriam Noël-Martel. Music is by Édouard Blain-Noël.",
         "date": "2013-08-26",
         "links": [
             {
@@ -156,7 +156,7 @@
     {
         "name": "Bang! server",
         "subtitle": "node.js monstrosity",
-        "description": "Back when I started university, there was one game that was played every day at the student association: The card game Bang! Because I was curious about writing a card game engine and because I thought it'd be \"trivial\" (spoilers: it was not), I made one from scratch in node using [socket.io](https://socket.io/) and [express.js](https://expressjs.com/). The server should fully support the vanilla Bang! rules and cards. The client renders using only html and css and there were plans to draw all the card art instead of using the original but that proved to be quite the undertaking.",
+        "description": "Back when I started university, there was one game that was played every day at the student association: The card game Bang! Because I was curious about writing a card game engine and because I thought it'd be \"trivial\" (spoilers: it was not), I made one from scratch in node using [socket.io](https://socket.io/) and [express.js](https://expressjs.com/). The server should fully support the vanilla Bang! rules and cards. The client renders using only html and css with a bit of Javascript.",
         "date": "2017-03-04",
         "links": [
             {
@@ -178,7 +178,7 @@
     {
         "name": "Crustal",
         "subtitle": "Ludum Dare 38",
-        "description": "*The last bastion of hope for this small world.*\n\nIt must be protected at all costs! Alas, hordes of monsters creep in the shadows…\n\nFollow franctically behind the Crustal as it wobbles along, and try to survive as long as possible. Move with arrow keys and shoot with wasd.\n\nThe game’s written in Lua, running on [Löve](https://love2d.org/). It was made in a whirlwind of a weekend where I showed up at Frédéric-Antoine Gingras's place in Toronto on a friday and didn't see the sun until I had to go on sunday. Programming was made by both of us and the assets were mostly done by me.",
+        "description": "*The last bastion of hope for this small world.*\n\nIt must be protected at all costs! Alas, hordes of monsters creep in the shadows…\n\nFollow franctically behind the Crustal as it wobbles along, and try to survive as long as possible. Move with arrow keys and shoot with wasd.\n\nThe game’s written in Lua, running on [Löve](https://love2d.org/). It was made in a whirlwind of a weekend where I showed up at Frédéric-Antoine Gingras's place in Toronto on a friday and didn't see the sun until I had to go on sunday. Programming was done by both of us and the assets were mostly done by me.",
         "date": "2017-04-26",
         "links": [
             {
@@ -206,7 +206,7 @@
     {
         "name": "Tiny Religion",
         "subtitle": "Javascript remake",
-        "description": "A playable remake of my first Ludum Dare entry. A simple game about making your god happy by doing stuff which mostly consists of making babies and building bridges. Includes a usable interface, new features and some balance adjustments. This was made in Javascript using [PixiJS](https://www.pixijs.com/) and the app is essentially a bundled version of that.",
+        "description": "A playable remake of my first Ludum Dare entry. A simple game about making your god happy by doing things that mostly consist of making babies and building bridges. I had intended to redo the whole game for a long time because the original codebase was a true mess. Includes a usable interface, new features and some balance adjustments. This was made in Javascript using [PixiJS](https://www.pixijs.com/) and the app is essentially a bundled version of that.",
         "date": "2017-06-01",
         "links": [
             {

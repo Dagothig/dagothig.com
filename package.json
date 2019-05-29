@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "dagothig.com",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "1.0.1",
+  "description": "Simple gallery of various little projects I've done or partook in.",
+  "version": "1.0.2",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
