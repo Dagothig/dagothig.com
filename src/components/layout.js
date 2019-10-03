@@ -35,7 +35,6 @@ const Layout = ({ children }) => (
                     <link rel="icon" href="favicon.ico" type="image/x-icon" />
                     <meta name="description" content={data.site.siteMetadata.description} />
                 </Helmet>
-                <div className="body-bg"></div>
                 {children}
             </>
         )}

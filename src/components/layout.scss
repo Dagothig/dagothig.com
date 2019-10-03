@@ -34,7 +34,6 @@ $border-width: 0px;
 $border-radius: 0;
 $border-radius-lg: 0;
 $border-radius-sm: 0;
-$body-bg: $gray-200;
 
 $spacer: 1.5rem;
 $grid-gutter-width: $spacer * 1.25;
@@ -76,16 +75,7 @@ $font-family-sans-serif: 'Roboto', sans-serif;
 
 
 body {
-}
-
-.body-bg {
-    position: fixed;
-    z-index: -1;
-    bottom: 0;
-    height: 100vh;
-    left: 0;
-    right: 0;
-    background: repeating-linear-gradient(30deg, $gray-300, $gray-200 6em);
+  background: repeating-linear-gradient(30deg, $gray-300, $gray-200 6em) fixed;
 }
 
 .card {
