@@ -82,7 +82,8 @@ export default () => (
                         </a>{" "}
                         pour l'&nbsp;E&nbsp;S&nbsp;P&nbsp;A&nbsp;C&nbsp;E
                         <span className="mx-2">|</span>
-                        Looking for my <a href="http://old.dagothig.com">old website</a>?
+                        Looking for my{" "}
+                        <a href="http://old.dagothig.com">old website</a>?
                     </div>
                 </>
             )}

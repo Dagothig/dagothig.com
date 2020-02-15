@@ -7,10 +7,11 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "clean": "gatsby clean",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "deploy": "rsync -az public/ banana.dagothig.com:/data/www/dagothig.com --progress --delete"
+    "deploy": "gatsby build && rsync -az public/ banana.dagothig.com:/data/www/dagothig.com --progress --delete"
   },
   "dependencies": {
     "gatsby": "^2.4.2",

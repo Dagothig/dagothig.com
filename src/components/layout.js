@@ -10,9 +10,10 @@ import {
     faCode,
     faExternalLinkAlt,
     faMobile,
+    faImages,
 } from "@fortawesome/free-solid-svg-icons";
 
-library.add(faGamepad, faCode, faExternalLinkAlt, faMobile);
+library.add(faGamepad, faCode, faExternalLinkAlt, faMobile, faImages);
 
 const Layout = ({ children }) => (
     <StaticQuery
@@ -33,7 +34,10 @@ const Layout = ({ children }) => (
                     <title>{data.site.siteMetadata.title}</title>
                     <link rel="canonical" href={data.site.siteMetadata.url} />
                     <link rel="icon" href="favicon.ico" type="image/x-icon" />
-                    <meta name="description" content={data.site.siteMetadata.description} />
+                    <meta
+                        name="description"
+                        content={data.site.siteMetadata.description}
+                    />
                 </Helmet>
                 {children}
             </>
