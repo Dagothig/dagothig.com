@@ -234,8 +234,8 @@
     },
     {
         "name": "A gallery for the Nifty Fifty",
-        "subtitle": "/u/the_ocalhoun's Roller Coaster Tycoon scenario pack",
-        "description": "[Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) is a very old love of mine, and sometimes really neat user scenarios are posted on its' [subreddit](https://www.reddit.com/r/rct/). I've been playing through the scenarios that /u/the_ocalhoun's released so far for his Nifty Fifty scenario pack: Since it was a little hard to hunt them down, figured it'd be nice to have a gallery with all of them.",
+        "subtitle": "/u/the_ocalhoun's RCT scenario pack",
+        "description": "[Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) is a very old love of mine, and sometimes really neat user scenarios are posted on its' [subreddit](https://www.reddit.com/r/rct/). I've been playing through the scenarios that /u/the_ocalhoun's released so far for his Nifty Fifty scenario pack: Since it was a little hard to hunt them down, figured it'd be nice to have a gallery with all of them.\n\nIn contrast with this page, I wanted to work with a much simpler toolchain. Everything is built through make, and the final client is only an html file with some css.",
         "date": "2019-10-15",
         "links": [
             {
