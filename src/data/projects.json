@@ -256,7 +256,7 @@
     {
         "name": "Myriam Noël-Martel's gallery",
         "subtitle": "Hand printed linocuts gallore",
-        "description": "My sister makes awesome prints and I lent her a hand to get a gallery online. It was a little project that extended the workflow I setup for the Nifty Fifty gallery and is also a makefile that generates the static files.",
+        "description": "My sister makes awesome prints and I lent her a hand to get a gallery online. Since this was also mostly static content, I used an extended version of the workflow I setup for the Nifty Fifty gallery - This is also a makefile that generates the static files, with a bit of Etsy API integration to keep the boutique updated.",
         "date": "2020-01-01",
         "links": [
             {
