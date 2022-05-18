@@ -22,7 +22,13 @@ const Project = ({ project }) => (
             )}
             <div className="mb-3">
                 {project.links.map((link, i) => (
-                    <a key={i} href={link.url} className="card-link">
+                    <a
+                        key={i}
+                        href={link.url}
+                        className="card-link"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
                         <FontAwesomeIcon
                             icon={link.icon}
                             className="mr-2"

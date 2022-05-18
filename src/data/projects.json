@@ -41,7 +41,7 @@
             {
                 "name": "Ludum Dare entry",
                 "icon": "external-link-alt",
-                "url": "http://ludumdare.com/compo/ludum-dare-23/?action=preview&uid=11227"
+                "url": "https://web.archive.org/web/20210419223652/http://ludumdare.com/compo/ludum-dare-23/?action=preview&uid=11227"
             },
             {
                 "name": "Source",
@@ -109,7 +109,7 @@
             {
                 "name": "Ludum Dare entry",
                 "icon": "external-link-alt",
-                "url": "http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=11227"
+                "url": "https://web.archive.org/web/20210226164351/http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=11227"
             },
             {
                 "name": "Source",
@@ -137,7 +137,7 @@
             {
                 "name": "Ludum Dare entry",
                 "icon": "external-link-alt",
-                "url": "http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=11227"
+                "url": "https://web.archive.org/web/20210124054718/http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=11227"
             },
             {
                 "name": "Source",
@@ -234,8 +234,8 @@
     },
     {
         "name": "A gallery for the Nifty Fifty",
-        "subtitle": "/u/the_ocalhoun's RCT scenario pack",
-        "description": "[Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) is a very old love of mine, and sometimes really neat user scenarios are posted on its' [subreddit](https://www.reddit.com/r/rct/). I've been playing through the scenarios that /u/the_ocalhoun's released so far for his Nifty Fifty scenario pack: Since it was a little hard to hunt them down, figured it'd be nice to have a gallery with all of them.\n\nIn contrast with this page, I wanted to work with a much simpler toolchain. Everything is built through make, and the final client is only an html file with some css.",
+        "subtitle": "/u/ocalhoun's RCT scenario pack",
+        "description": "[Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon) is a very old love of mine, and sometimes really neat user scenarios are posted on its' [subreddit](https://www.reddit.com/r/rct/). I've been playing through the scenarios that /u/ocalhoun's released so far for his Nifty Fifty scenario pack: Since it was a little hard to hunt them down, figured it'd be nice to have a gallery with all of them.\n\nIn contrast with this page, I wanted to work with a much simpler toolchain. Everything is built through make, and the final client is only an html file with some css.",
         "date": "2019-10-15",
         "links": [
             {
@@ -252,5 +252,25 @@
         "thumb": "../images/nifty-fifty-thumb.png",
         "images": [
         ]
+    },
+    {
+        "name": "Myriam Noël-Martel's gallery",
+        "subtitle": "Hand printed linocuts gallore",
+        "description": "My sister makes awesome prints and I lent her a hand to get a gallery online. It was a little project that extended the workflow I setup for the Nifty Fifty gallery and is also a makefile that generates the static files.",
+        "date": "2020-01-01",
+        "links": [
+            {
+                "name": "Catiniata.art",
+                "icon": "external-link-alt",
+                "url": "https://catiniata.art/"
+            },
+            {
+                "name": "Source",
+                "icon": "code",
+                "url": "https://github.com/Dagothig/myriamnmartel/"
+            }
+        ],
+        "thumb": "../images/catiniata.png",
+        "images": []
     }
 ]
